@@ -2,15 +2,13 @@ Work Log for P1: Temperature Conversion
 Team members Kevin Kantono / Barbara Pronsato
 
 team member barbara / 
-1/7/2020 - .5hr: researched similar project in ITC240 
 1/21/20 - 2hr: worked on css styling and co-worked on finding a solution for error messages.
-
+1/7/2020 - .5hr: researched similar project in ITC240 
 
 team member kevin /
-1/7/202 - 2hr: worked on initial code for converter, including the function and conversion logic
-1/16/20 - 2hr: worked on switch statement 
 1/21/20 - 2hr: finalized temperature error messages
-
+1/16/20 - 2hr: worked on switch statement 
+1/7/202 - 2hr: worked on initial code for converter, including the function and conversion logic
 
 
 
